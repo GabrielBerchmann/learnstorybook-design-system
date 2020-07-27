@@ -10,6 +10,11 @@ const Text = styled.span`
   vertical-align: top;
 `;
 
+const StyledButton = styled.button`
+  border: 10px solid red;
+  font-size: 20px;
+`;
+
 const Loading = styled.span`
   position: absolute;
   top: 50%;
@@ -32,7 +37,7 @@ const SIZES = {
   MEDIUM: 'medium',
 };
 
-const StyledButton = styled.button`
+const StyledButtonNew = styled.button`
   border: 0;
   border-radius: 3em;
   cursor: pointer;
