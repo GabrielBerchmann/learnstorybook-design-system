@@ -19,4 +19,4 @@ jobs:
         # options required to the GitHub chromatic action
         with:
           projectToken: project-token
-          token: ${{ 224cf77ccd02346e5357e27fc3f8f135b9ab0f6a }}
+          token: 224cf77ccd02346e5357e27fc3f8f135b9ab0f6a
